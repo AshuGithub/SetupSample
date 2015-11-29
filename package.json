@@ -1,0 +1,21 @@
+{
+  "name": "SetupSample",
+  "version": "1.0.0",
+  "description": "Sample project to learn setup of grunt,karma,less",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AshuGithub/SetupSample"
+  },
+  "keywords": [
+    "setup"
+  ],
+  "author": "Ashutosh Chaturvedi",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/AshuGithub/SetupSample/issues"
+  }
+}
